@@ -1,6 +1,6 @@
 # SeongHo
 
-<h1>귀요미들 자료구조 복습</h1>
+<h1>성호 자료구조 복습</h1>
 
 <h2>문제 풀이 사이트</h2>
 백준 : https://www.acmicpc.net/
